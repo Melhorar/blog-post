@@ -1,8 +1,8 @@
 # blog-post
 
 ## How-To Guides
-- [x] How to perform a comprehensive SEO audit for your website  
-- [ ] How to optimize your blog posts for SEO  
+- [ ] How to perform a comprehensive SEO audit for your website  
+- [x] How to optimize your blog posts for SEO  
 - [ ] How to improve your website's loading speed  
 - [ ] How to write SEO-friendly titles and meta descriptions  
 - [ ] How to use schema markup for better SEO  
