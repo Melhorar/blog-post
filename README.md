@@ -124,7 +124,7 @@
 
 ## ✅ How-To Guides  
 - [ ] How to build a simple website for your small business  
-- [ ] How to create content that attracts local customers  
+- [x] How to create content that attracts local customers  
 - [ ] How to set up Google Business Profile the right way  
 - [ ] How to write service pages that convert  
 - [ ] How to use FAQs to rank higher and reduce support calls  
